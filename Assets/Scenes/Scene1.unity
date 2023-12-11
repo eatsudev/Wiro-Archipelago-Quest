@@ -328,7 +328,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Sofia
+  m_Text: Suling
 --- !u!222 &8946108
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -664,8 +664,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.00000047684, y: 140}
-  m_SizeDelta: {x: 300.43, y: 79.09}
+  m_AnchoredPosition: {x: -10.29, y: 143.43}
+  m_SizeDelta: {x: 609.05, y: 145.39}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &39282023
 MonoBehaviour:
@@ -689,7 +689,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 32
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -700,7 +700,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 5 + 6
+  m_Text: Pulau manakah di Indonesia yang terkenal dengan budayanya yang dinamis
+    dan artistik, termasuk Hutan Monyet Ubud yang terkenal?
 --- !u!222 &39282024
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -780,7 +781,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 6
+  m_Text: Nasi Goreng
 --- !u!222 &44490946
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -940,7 +941,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 25
+  m_Text: Jawa
 --- !u!222 &90558813
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1104,7 +1105,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 8
+  m_Text: Borneo
 --- !u!222 &111576771
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1184,7 +1185,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 9
+  m_Text: Lombok
 --- !u!222 &120485970
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1264,7 +1265,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 10
+  m_Text: Komodo
 --- !u!222 &127059656
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1344,7 +1345,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: cair ke gas
+  m_Text: Reog Ponorogo
 --- !u!222 &129463234
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1438,20 +1439,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 944492221}
-        m_TargetAssemblyTypeName: Manager, Assembly-CSharp
-        m_MethodName: correctAnswer
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1788259142}
-        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
-        m_MethodName: Attack
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: wrongAnswer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1912,7 +1901,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 11
+  m_Text: Bali
 --- !u!222 &207151078
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1981,7 +1970,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -1992,7 +1981,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ' Es merupakan perubahan alami dari'
+  m_Text: Apa nama wayang tradisional Indonesia yang menggunakan wayang dengan desain
+    rumit untuk menceritakan kisah-kisah epik?
 --- !u!222 &237132792
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2072,7 +2062,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 2
+  m_Text: Gado-gado
 --- !u!222 &262314115
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2152,7 +2142,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Goalkeeper
+  m_Text: ' Tanah Lot'
 --- !u!222 &273668515
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2366,7 +2356,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 30
+  m_Text: Bali
 --- !u!222 &286810554
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2567,19 +2557,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: correctAnswer
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1788259142}
-        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
-        m_MethodName: Attack
+        m_MethodName: wrongAnswer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3160,7 +3138,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: London
+  m_Text: Kendang
 --- !u!222 &368628866
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3240,8 +3218,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pada olahraga sepak bola, posisi pemain yang dikhususkan boleh memegang
-    bola dengan tangan?
+  m_Text: Candi Hindu-Buddha manakah di Indonesia yang dianggap salah satu candi
+    terbesar dan termegah di dunia?
 --- !u!222 &395119284
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3589,7 +3567,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: padat ke cair
+  m_Text: Wayang Kulit
 --- !u!222 &447972721
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3669,7 +3647,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 4
+  m_Text: Kung Fu
 --- !u!222 &460890316
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4366,7 +4344,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Striker
+  m_Text: Borobudur
 --- !u!222 &540315742
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4446,7 +4424,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 5
+  m_Text: Sulawesi
 --- !u!222 &550527612
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4526,7 +4504,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 3
+  m_Text: Pencak Silat
 --- !u!222 &560203149
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4872,7 +4850,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mid
+  m_Text: Uluwatu
 --- !u!222 &594544190
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4952,7 +4930,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 3
+  m_Text: Jaipong
 --- !u!222 &607731034
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5180,20 +5158,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 944492221}
-        m_TargetAssemblyTypeName: Manager, Assembly-CSharp
-        m_MethodName: correctAnswer
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1788259142}
-        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
-        m_MethodName: Attack
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: wrongAnswer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5411,19 +5377,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: correctAnswer
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1788259142}
-        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
-        m_MethodName: Attack
+        m_MethodName: wrongAnswer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5586,8 +5540,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.3300037, y: 147.99498}
-  m_SizeDelta: {x: 656.84, y: 79.09}
+  m_AnchoredPosition: {x: -1.3300037, y: 137.98}
+  m_SizeDelta: {x: 656.84, y: 171.24}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &675384758
 MonoBehaviour:
@@ -5611,7 +5565,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -5622,7 +5576,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ibukota Negara Jepang
+  m_Text: Apa yang paling dikenal dari seni batik tradisional Indonesia?
 --- !u!222 &675384759
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6071,7 +6025,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Kyoto
+  m_Text: Pengerjaan logam
 --- !u!222 &702351353
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6822,7 +6776,19 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: wrongAnswer
+        m_MethodName: correctAnswer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1788259142}
+        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
+        m_MethodName: Attack
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6941,7 +6907,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Back
+  m_Text: Prambanan
 --- !u!222 &817956464
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7021,7 +6987,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Washington DC
+  m_Text: Mencerminkan identitas daerah
 --- !u!222 &853925465
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7397,8 +7363,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 140}
-  m_SizeDelta: {x: 300.43, y: 79.09}
+  m_AnchoredPosition: {x: -5.71, y: 144.58}
+  m_SizeDelta: {x: 622.77, y: 138.53}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &933176466
 MonoBehaviour:
@@ -7422,7 +7388,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -7433,7 +7399,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 4 + 4
+  m_Text: Manakah dari berikut ini masakan populer Indonesia yang terbuat dari daging
+    yang dibumbui, ditusuk, dan dipanggang, biasanya disajikan dengan saus kacang?
 --- !u!222 &933176467
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7513,7 +7480,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: gas ke padat
+  m_Text: Angklung
 --- !u!222 &933387816
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7648,7 +7615,7 @@ MonoBehaviour:
   ResetScreen: {fileID: 1602374436}
   End: {fileID: 988866440}
   TextTimer: {fileID: 1923808987}
-  Waktu: 40
+  Waktu: 60
   GameAktif: 1
   TimesUp: {fileID: 1054705958}
   wrongAnsSound: {fileID: 944492224}
@@ -7944,7 +7911,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 6
+  m_Text: Barong
 --- !u!222 &949855248
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8411,7 +8378,19 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: wrongAnswer
+        m_MethodName: correctAnswer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1788259142}
+        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
+        m_MethodName: Attack
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8494,8 +8473,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3, y: 149}
-  m_SizeDelta: {x: 300.43, y: 79.09}
+  m_AnchoredPosition: {x: -0.00000011921, y: 142}
+  m_SizeDelta: {x: 606.93, y: 141.19}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1052377727
 MonoBehaviour:
@@ -8519,7 +8498,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 36
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -8530,7 +8509,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 5 + 5
+  m_Text: Pulau manakah di Indonesia yang terkenal dengan keunikan komodonya?
 --- !u!222 &1052377728
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8712,7 +8691,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 8
+  m_Text: Sate
 --- !u!222 &1068427057
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9090,7 +9069,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 3
+  m_Text: ' Rendang'
 --- !u!222 &1136816363
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9444,8 +9423,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.74, y: 121.687}
-  m_SizeDelta: {x: 619.58, y: 120.63}
+  m_AnchoredPosition: {x: -8.74, y: 141.12}
+  m_SizeDelta: {x: 619.58, y: 159.49}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1223009389
 MonoBehaviour:
@@ -9469,7 +9448,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 36
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -9480,9 +9459,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Ibukota Negara Rusia
-
-'
+  m_Text: "Dalam budaya Indonesia, apa arti dari corak \u201Cbatik\u201D yang sering
+    dikenakan pada pakaian?"
 --- !u!222 &1223009390
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10012,8 +9990,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6.56, y: 128.04498}
-  m_SizeDelta: {x: 623.96, y: 120.63}
+  m_AnchoredPosition: {x: -6.56, y: 144.05}
+  m_SizeDelta: {x: 623.96, y: 152.64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1280472146
 MonoBehaviour:
@@ -10037,7 +10015,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 36
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -10048,9 +10026,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Ibukota Negara Inggris
-
-'
+  m_Text: Apa alat musik tradisional indonesia yang berupa tabung bambu yang ditempelkan
+    pada rangka bambu sehingga menimbulkan bunyi yang merdu bila digoyangkan?
 --- !u!222 &1280472147
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10130,7 +10107,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Nagasaki
+  m_Text: Tembikar
 --- !u!222 &1308577936
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10424,7 +10401,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 5
+  m_Text: Legong
 --- !u!222 &1316015345
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10856,7 +10833,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Tokyo
+  m_Text: Pewarnaan kain
 --- !u!222 &1440151685
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11254,7 +11231,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 4
+  m_Text: Kecak
 --- !u!222 &1545711232
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11569,7 +11546,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Bridgetown
+  m_Text: Gamelan
 --- !u!222 &1557750697
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12013,7 +11990,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jakarta
+  m_Text: Melambangkan status sosial
 --- !u!222 &1587416662
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12392,19 +12369,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: correctAnswer
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1788259142}
-        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
-        m_MethodName: Attack
+        m_MethodName: wrongAnswer
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -12523,7 +12488,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 20
+  m_Text: Sumatra
 --- !u!222 &1679696697
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12603,7 +12568,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 6
+  m_Text: Krav Maga
 --- !u!222 &1683955555
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12978,7 +12943,19 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: wrongAnswer
+        m_MethodName: correctAnswer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1788259142}
+        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
+        m_MethodName: Attack
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -13675,7 +13652,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Moscow
+  m_Text: Melambangkan perlindungan
 --- !u!222 &1807236290
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13958,7 +13935,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -13969,7 +13946,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 2 + 1
+  m_Text: Tarian tradisional Indonesia manakah yang memiliki ciri gerakan jari yang
+    rumit dan ekspresi wajah yang ekspresif?
 --- !u!222 &1842163483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14144,7 +14122,19 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: wrongAnswer
+        m_MethodName: correctAnswer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1788259142}
+        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
+        m_MethodName: Attack
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -14343,7 +14333,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Hiroshima
+  m_Text: Ukiran kayu
 --- !u!222 &1929881829
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14438,7 +14428,19 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 944492221}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: wrongAnswer
+        m_MethodName: correctAnswer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1788259142}
+        m_TargetAssemblyTypeName: PlayerAttack, Assembly-CSharp
+        m_MethodName: Attack
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -15106,7 +15108,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 7
+  m_Text: Muay Thai
 --- !u!222 &1997628957
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15332,7 +15334,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Washington DC
+  m_Text: Angklung
 --- !u!222 &2054413145
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15412,7 +15414,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Singapore
+  m_Text: Menunjukkan status perkawinan
 --- !u!222 &2069960612
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15456,8 +15458,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.00000047684, y: 143}
-  m_SizeDelta: {x: 300.43, y: 79.09}
+  m_AnchoredPosition: {x: -5.72, y: 147.58}
+  m_SizeDelta: {x: 613.62, y: 138.53}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2073384798
 MonoBehaviour:
@@ -15481,7 +15483,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 36
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -15492,7 +15494,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 3 + 1
+  m_Text: Apa seni bela diri tradisional Indonesia yang menggabungkan tarian dan
+    akrobat?
 --- !u!222 &2073384799
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15673,7 +15676,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: cair ke padat
+  m_Text: Topeng Dance
 --- !u!222 &2081439173
 CanvasRenderer:
   m_ObjectHideFlags: 0
